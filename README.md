@@ -5,7 +5,7 @@ Dapat inspirasi dari reels IG
 
 Input 0: i love you so much but i dont know you ever love me back <br>
 Output 0: ILYSMBIDKIYWELMB <br>
-Penjelasan output: Ambil huruf pertama tiap kalimat dan gabungkan.
+Penjelasan output: Ambil huruf pertama tiap kata dan gabungkan.
 
 ### Memisahkan kata-kata
 `kalimat = input.split()`
