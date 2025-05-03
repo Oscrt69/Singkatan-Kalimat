@@ -8,7 +8,7 @@ Output 0: ILYSMBIDKIYWELMB <br>
 Penjelasan output: Ambil huruf pertama tiap kalimat dan gabungkan.
 
 ### Memisahkan kata-kata
-`words = input_string.split()`
+`kalimat = input.split()`
 
 ### Mengambil huruf pertama dari setiap kata dan mengkapitalkan
-`output = ''.join([word[0].upper() for word in words])`
+`output = ''.join([kata[0].upper() for kata in kalimat])`
